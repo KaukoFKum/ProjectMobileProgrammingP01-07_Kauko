@@ -1,2 +1,7 @@
 # ProjectMobileProgrammingP01-07_Kauko
 Repo untuk Project matkul Mobile Programming Pertemuan 1 sd 7
+masuk ke lokal folder tempat repo di buat
+ketik git init -b main
+ketik git add .  
+ketik git commit -m "initial commit"
+
