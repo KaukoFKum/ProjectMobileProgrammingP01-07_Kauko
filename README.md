@@ -5,5 +5,5 @@ ketik git init -b main
 ketik git add .  
 ketik git commit -m "initial commit"
 link to github
-git remote add origin https://github.com/KaukoFKum/ProjectMobileProgrammingP01-07_Kauko/tree/main
+git remote add origin [https://github.com/KaukoFKum/ProjectMobileProgrammingP01-07_Kauko/tree/main](https://github.com/KaukoFKum/ProjectMobileProgrammingP01-07_Kauko.git)
 git push -u origin main
