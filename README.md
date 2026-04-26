@@ -6,3 +6,4 @@ ketik git add .
 ketik git commit -m "initial commit"
 link to github
 git remote add origin https://github.com/KaukoFKum/ProjectMobileProgrammingP01-07_Kauko/tree/main
+git push -u origin main
